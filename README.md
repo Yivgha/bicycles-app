@@ -1,8 +1,8 @@
 # Bicycle App
 
-![https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![https://img.shields.io/badge/logo-javascript-blue](https://img.shields.io/badge/logo-javascript-blue)
 
-![https://img.shields.io/badge/logo-github-black?logo=github](https://img.shields.io/badge/logo-github-black?logo=githu)
+![https://img.shields.io/badge/logo-github-black?logo=git](https://img.shields.io/badge/logo-github-black?logo=git)
 
 Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
@@ -26,7 +26,7 @@ npm run start:dev
 ```
 
 After this, go to second tab in terminal and start the prettiest part of this app, which is created on **React**. \
-Executing command beloww will open application in new browser tab.
+Executing command below will open application in new browser tab.
 
 ### `npm run start`
 
