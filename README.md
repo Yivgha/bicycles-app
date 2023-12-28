@@ -1,9 +1,6 @@
 # Bicycle App
 
-![https://img.shields.io/badge/logo-javascript-blue](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-
-![https://img.shields.io/badge/logo-github-black](https://img.shields.io/badge/logo-github-black?logo=github)
-![https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
+![https://img.shields.io/badge/-black?logo=github&logoColor=white&style=plastic](https://img.shields.io/badge/-black?logo=github&logoColor=white&style=plastic) ![https://img.shields.io/badge/-Js?logo=javascript&logoColor=white&style=plastic](https://img.shields.io/badge/-Js?logo=javascript&logoColor=white&style=plastic) ![https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic) ![https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic](https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic)
 
 Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
