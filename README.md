@@ -6,7 +6,7 @@ Bicycle App is a little application, that allows you create and see base of bicy
 
 ## Installation
 
-To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: [Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg).
+To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: [Open in Visual Studio Code](https://vscode.dev/github/Yivgha/bicycles-app).
 
 ## Usage
 
