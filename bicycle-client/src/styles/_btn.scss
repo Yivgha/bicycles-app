@@ -1,0 +1,19 @@
+.create-form__btn{
+display: block;
+margin: 0 auto;
+width: 100%;
+padding: 4px 22px;
+border-radius: 5px;
+background-color: var(--main-gray);
+color: var(--primary-white);
+border: transparent;
+outline: none;
+
+&:hover {
+    background-color: var(--green);
+}
+
+&:last-child:hover{
+    background-color: var(--unavailable-color);
+}
+}

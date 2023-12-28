@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&family=Saira:wght@400;700&display=swap');
+
+body, header, main, p, h1, h2, h3,h4,h5, h6{
+    padding: 0;
+    margin: 0;
+    font-family: 'Saira', sans-serif;
+}
+
+ul, li{
+    
+    list-style: none;
+}
+
+a{
+text-decoration: none;
+}
+
+:root {
+    --main-gray: #696969;
+    --light-text: #E8E8E8;
+    --rectangle-bg: #E8E8E8;
+    --primary-white: #FFFFFF;
+    --black: #000000;
+    --name-color: #333333;
+    --green: #6FCF97;
+    --busy-color: #F2994A;
+    --unavailable-color: #EB5757;
+    --developer-color: #CBCACA;
+    --divider: #c4c4c4;
+    --input-color: #717171;
+}
+
+input:invalid{
+    border: 1px solid var(--unavailable-color);
+}
+
+@keyframes ride {
+  0% {
+      opacity: 0.7;
+      left: 98%;
+   }
+   30%{
+    opacity: 1;
+   }
+   70%{
+    opacity: 0.7;
+   }
+   100%{
+      opacity: 0.3;
+      left: 0;
+   }
+}

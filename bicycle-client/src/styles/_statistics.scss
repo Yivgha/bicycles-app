@@ -1,0 +1,29 @@
+.stat-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 5;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.stat-title{
+    color: var(--black);
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.stat-name, .stat-description{
+    color: var(--black);
+font-size: 14px;
+font-style: normal;
+line-height: normal;
+}
+.stat-name{
+    font-weight: 400;
+}
+.stat-description{
+    font-weight: 700;
+}

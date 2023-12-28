@@ -1,0 +1,50 @@
+.create-form{
+    padding-top: 10px;
+}
+.create-form__row{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.create-input-box{
+    display: inline-flex;
+    flex-direction: column;
+    gap: 3px;
+    width: 100%;
+}
+.formik-error{
+    color: var(--unavailable-color);
+    padding-left: 10px;
+}
+.create-form__input{
+    height: 30px;
+padding: 5px 16px;
+width: 100%;
+gap: 10px;
+border-radius: 5px;
+background-color: var(--rectangle-bg);
+color: var(--input-color);
+border: transparent;
+outline: none;
+text-transform: capitalize;
+}
+.create-form__description{
+border-radius: 5px;
+background-color: var(--rectangle-bg);
+color: var(--input-color);
+border: transparent;
+outline: none;
+height: 75px;
+width: 100%;
+padding: 5px 16px;
+resize: none;
+}
+
+.create-form__btns{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 100%;
+}
