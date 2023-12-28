@@ -1,11 +1,14 @@
 # Bicycle App
 
-[![ https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)]
+![https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
+![https://img.shields.io/badge/logo-github-black?logo=github](https://img.shields.io/badge/logo-github-black?logo=githu)
+
 Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
 ## Installation
 
-To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)].
+To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: ![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg).
 
 ## Usage
 
