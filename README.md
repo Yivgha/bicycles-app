@@ -1,12 +1,12 @@
 # Bicycle App
 
-![https://img.shields.io/badge/-black?logo=github&logoColor=white&style=plastic](https://img.shields.io/badge/-black?logo=github&logoColor=white&style=plastic) ![https://img.shields.io/badge/-Js?logo=javascript&logoColor=white&style=plastic](https://img.shields.io/badge/-Js?logo=javascript&logoColor=white&style=plastic) ![https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic) ![https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic](https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic)
+![https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=plastic](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=plastic) ![https://img.shields.io/badge/-JavaScript-FFFF00?logo=javascript&logoColor=black&style=plastic](https://img.shields.io/badge/-JavaScript-FFFF00?logo=javascript&logoColor=black&style=plastic) ![https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic) ![https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic](https://img.shields.io/badge/-npm-FF0000?logo=npm&logoColor=white&style=plastic)![https://img.shields.io/badge/-Node.js-228B22?logo=nodedotjs&logoColor=white&style=plastic](https://img.shields.io/badge/-Node.js-228B22?logo=nodedotjs&logoColor=white&style=plastic)![https://img.shields.io/badge/-Nodemon-32CD32?logo=nodemon&logoColor=white&style=plastic](https://img.shields.io/badge/-Nodemon-32CD32?logo=nodemon&logoColor=white&style=plastic)![https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic)
 
 Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
 ## Installation
 
-To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: ![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg).
+To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode or try it online: ![https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic](https://open.vscode.dev/badges/open-in-vscode.svg).
 
 ## Usage
 
