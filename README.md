@@ -14,7 +14,8 @@ In the project directory open terminal (Ctrl + Shift + `) or (Ctrl + Shift + C) 
 Clone this tab.
 
 In first tab select `server` folder and run backend. \
-**Nodemon** is installed in packages, so you can easily run project in developer mode.
+**Nodemon** is installed in packages, so you can easily run project in developer mode.\
+To do so, copy code below in your terminal.
 
 ### `npm run start:dev`
 
