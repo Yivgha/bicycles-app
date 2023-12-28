@@ -14,17 +14,17 @@ export default function Create({getBicycles}) {
     try {
       setIsLoading(true);
 
-      console.log("form values", values);
-
       addPost(values).then((res) => {
         if (!res.ok) {
-          Notify.failure("Something went wrong")
+          Notify.failure("Something went wrong");
+          
         } else {
           Notify.success('Successfully created!');
           getBicycles();
+          formik.handleReset()
         }
-      })
-      handleReset();
+      });
+     
       setIsLoading(false);
       
     } catch (error) {
@@ -36,7 +36,7 @@ export default function Create({getBicycles}) {
 
   // RESET FORM
   const handleReset = () => {
-      formik.initialValues = initialFormValues;
+    formik.initialValues = initialFormValues;
   }
 
 //  FORMIK OPTIONS
@@ -59,7 +59,8 @@ export default function Create({getBicycles}) {
         <input
           type="text"
           className="create-form__input"
-          placeholder="Name"
+            placeholder="Name"
+            id="name"
             name="name"
             autoComplete="false"
             value={formik.values.name}

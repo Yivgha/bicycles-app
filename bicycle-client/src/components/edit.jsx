@@ -74,7 +74,6 @@ export default function Edit() {
   const handleSubmit = async (values) => {
     try {
       setIsLoading(true);
-      console.log("edit form values", values);
    
       fetchEditById(_id, values);
     
