@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Bicycle App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
-## Available Scripts
+## Installation
+
+To try Bicycle App by yourself, download this Github repo into your computer and open with VSCode [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository). In the project directory open terminal (Ctrl + Shift + `) and choose
 
 In the project directory, you can run:
 
