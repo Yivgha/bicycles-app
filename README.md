@@ -1,8 +1,8 @@
 # Bicycle App
 
-![https://img.shields.io/badge/logo-javascript-blue](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![https://img.shields.io/badge/logo-javascript-blue](https://img.shields.io/badge/logo-blue?logo=javascript)
 
-![https://img.shields.io/badge/logo-github-black](https://img.shields.io/badge/logo-github-black?logo=git)
+![https://img.shields.io/badge/logo-github-black](https://img.shields.io/badge/logo-black?logo=git)
 
 Bicycle App is a little application, that allows you create and see base of bicycles, their amount, info, create new items and edit existing ones.
 
