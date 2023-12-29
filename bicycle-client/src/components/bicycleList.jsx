@@ -21,7 +21,6 @@ export default function BicycleList() {
   // FETCH LIST
  async function getBicycles() {
     setIsLoading(true);
-
    getAllBicycles().then((res) => setBicycles(res))
     setIsLoading(false);
   };
@@ -33,7 +32,7 @@ export default function BicycleList() {
   // DELETE ITEM
   async function deleteBicycle(id) {
     setIsLoading(true);
-    deleteBicycleById(id)
+    deleteBicycleById(id);
     
     const newRecords = bicycles.filter((el) => el._id !== id);
     setBicycles(newRecords);

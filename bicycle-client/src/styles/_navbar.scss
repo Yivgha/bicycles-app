@@ -1,15 +1,23 @@
 .site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
   width: 100%;
   height: 42px;
   background-color: var(--main-gray);
   padding: 4px 16px;
   display: inline-flex;
   flex-direction: row;
+  flex-wrap: nowrap;
   justify-content: space-between;
+  align-items: center;
 }
 .site-nav__link {
   cursor: pointer;
   text-decoration: none;
+  width: 40%;
 }
 .site-title {
   color: var(--light-text);
@@ -19,15 +27,15 @@
   font-family: "Saira Stencil One", sans-serif;
   text-transform: uppercase;
 }
-.biLogo{
-  width: 75%;
+.biLogo {
+  width: 60%;
   padding-right: 10px;
   height: 30px;
   color: var(--primary-white);
   position: relative;
 }
 
-.biLogoIMG{
+.biLogoIMG {
   position: absolute;
   top: 0;
   right: 10px;
@@ -35,8 +43,11 @@
   height: 30px;
   animation: ride 5s ease-in infinite;
   -moz-transform: scaleX(-1);
-        -o-transform: scaleX(-1);
-        -webkit-transform: scaleX(-1);
-        transform: scaleX(-1);
-        -webkit-transition: all 3s ease-in; -moz-transition: all 3s ease-in; -o-transition: all 3s ease-in; transition: all 3s ease-in;
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  -webkit-transition: all 3s ease-in;
+  -moz-transition: all 3s ease-in;
+  -o-transition: all 3s ease-in;
+  transition: all 3s ease-in;
 }

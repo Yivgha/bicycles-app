@@ -1,0 +1,100 @@
+@media screen and (max-width: 1199px) {
+  .site-title {
+    font-size: 18px;
+  }
+  .site-nav__link {
+    width: 40%;
+  }
+  .biLogo {
+    width: 60%;
+  }
+  .footer-developer,
+  .footer-name {
+    font-size: 18px;
+  }
+  .home-layout {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .site-nav__link {
+    width: 70%;
+  }
+  .site-title {
+    font-size: 14px;
+  }
+  .biLogo {
+    max-width: 30%;
+  }
+  .footer-developer,
+  .footer-name {
+    font-size: 16px;
+  }
+  .home-layout {
+    flex-direction: column-reverse;
+    height: 800px;
+  }
+  .home-list {
+    width: 100%;
+  }
+  .vertical-divider {
+    height: 1px;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .home-form {
+    width: 100%;
+  }
+
+  .element-wrapper {
+    padding: 10px 14px;
+  }
+
+  .top-name {
+    font-size: 12px;
+  }
+
+  .close-icon {
+    top: 4px;
+    right: 10px;
+  }
+  .element-status,
+  .element-status-select {
+    font-size: 12px;
+  }
+  .element-status-select {
+    height: 30px;
+  }
+  .element-price {
+    font-size: 14px;
+  }
+
+  .edit-top .element-price {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 40%;
+  }
+
+  .edit-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .edit-status-box {
+    align-items: flex-start;
+  }
+
+  .edit-form {
+    width: 100%;
+  }
+
+  .edit-delete-btn,
+  .edit-status-select {
+    padding: 4px 10px;
+    width: 80px;
+    height: 30px;
+  }
+}

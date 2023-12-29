@@ -1,44 +1,47 @@
-.layout{
-    height: 100vh;
+.layout {
+  padding: 42px 0;
+  width: 100%;
+  height: 100vh;
 }
 
-.home-layout{
-    display: flex;
-    flex-direction: row;
-    padding: 0 16px;
-    background: var(--primary-white);
-    width: 100%;
-    height: 653px;
+.home-layout {
+  display: flex;
+  flex-direction: row;
+  padding: 0 16px;
+  background: var(--primary-white);
+  width: 100%;
+  // height: 653px;
+  height: 100%;
 }
 
-.home-list{
-    padding: 10px 0;
-    width: 60vw;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    overflow-y: scroll;
-    -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+.home-list {
+  padding: 10px 0;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: scroll;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 
-    &::-webkit-scrollbar {
-  display: none;
-}
-}
-
-.home-form{
-  width: 40vw;;
+  &::-webkit-scrollbar {
+    display: none;
+  }
 }
 
-.vertical-divider{
-width: 1px;
-background-color: var(--divider);
-margin-left: 10px;
-margin-right: 10px;
+.home-form {
+  width: 40vw;
 }
 
-.horizontal-divider{
-   height: 1px;
-   background-color: var(--divider);
-   margin: 16px 0;
+.vertical-divider {
+  width: 1px;
+  background-color: var(--divider);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.horizontal-divider {
+  height: 1px;
+  background-color: var(--divider);
+  margin: 16px 0;
 }
